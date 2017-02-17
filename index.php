@@ -1,8 +1,7 @@
 <?php
 
-//require_once 'vendor/autoload.php';
+echo "hello aaaa"
 
-$pages = new \Controllers\Core\Web\Pages();
 
 ?>
 <!DOCTYPE html>
@@ -12,9 +11,7 @@ $pages = new \Controllers\Core\Web\Pages();
 </head>
 <body>
 
-<h1><?php echo $pages->render(); ?></h1>
-
-<pre><?php var_dump($pages->returnArray());?></pre>
+<h1>hello</h1>
 
 </body>
 </html>
