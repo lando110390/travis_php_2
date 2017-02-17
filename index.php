@@ -2,7 +2,7 @@
 
 require_once 'vendor/autoload.php';
 
-$pages = new \Controllers\Core\Web\Pages()
+$pages = new \Controllers\Core\Web\Pages();
 
 ?>
 <!DOCTYPE html>
