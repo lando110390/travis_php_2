@@ -8,7 +8,7 @@ class Pages
     public function render()
     {
 
-        return 'Hello World';
+        return 'Hello World'
 
     }
 
